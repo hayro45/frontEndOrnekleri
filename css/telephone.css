@@ -1,0 +1,28 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 100px;
+    
+}
+#navbar .navbar-brand {
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+#navbar ul li a {
+    padding: 0.5rem;
+    color: #201E1F;
+    font-size: 0.7em;;
+    
+}
+#home .overlay{
+  
+    padding-top: 75px;
+    padding-bottom: 90px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#home p{
+    margin-top: 10px;
+}
